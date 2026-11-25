@@ -1,6 +1,6 @@
 # Unary maps are restrictions of linear maps, k-ary maps are restrictions of homogeneous maps
 
-Lean 4 formalization of the paper `hom_bin.pdf`.
+Lean 4 formalization of the paper `arXiv:2611.29718`.
 
 The main theorems are listed in `Axioms.lean`:
 
